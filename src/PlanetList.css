@@ -1,0 +1,11 @@
+.planet-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    text-align: center; /* Center text within items */
+}
+
+.card{
+    margin:20px ;
+}
